@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+config/__pycache__/
+
+# Virtual environment
+.venv/
+
+# SQLite database
+db.sqlite3
